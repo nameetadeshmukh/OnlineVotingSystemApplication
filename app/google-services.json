@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10136265113",
+    "project_id": "onlinevotingsystem-maste-35c08",
+    "storage_bucket": "onlinevotingsystem-maste-35c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10136265113:android:8a39873b87d1be2a16b308",
+        "android_client_info": {
+          "package_name": "com.example.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACr7ifOMuYcBAS1m7zvnzjrbJY16BYWYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
